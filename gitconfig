@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = andre.marlene1990@gmail.com
+	name = Marlene Andre
